@@ -8,7 +8,7 @@ public class Contr {
 	
 	@GetMapping
 	String getTest() {
-		return "Hello World";
+		return "Hello DevOps";
 	}
 
 }
